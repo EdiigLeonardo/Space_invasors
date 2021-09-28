@@ -19,7 +19,7 @@ Nave Amarela: W,S,A,D para movimentos e LCTRL para balas. Nave vermelha: Setas m
   
 ### Credits:
 
-  Code: Ediig Leonardo and Tech With Tim
-  Music: Ediig Leonardo
+  #### Code: Ediig Leonardo and Tech With Tim
+  #### Music: Ediig Leonardo
 
 ####
