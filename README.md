@@ -1,6 +1,6 @@
 # Space_invasors
 
-# [PT-EU]:
+# [EN-EU]:
 
 One of the first games I made consists of two spaceships in which one tries to shoot the other down with bullets.
 ## Instructions:
