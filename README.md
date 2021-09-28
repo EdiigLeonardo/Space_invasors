@@ -17,7 +17,7 @@ Um dos primeiros jogos que fiz, consiste em duas naves na qual uma tenta derruba
 ## Instruções:
 Nave Amarela: W,S,A,D para movimentos e LCTRL para balas. Nave vermelha: Setas movimentos RCTRL para balas.
   
-# Credits:
+### Credits:
 
   Code: Ediig Leonardo and Tech With Tim
   Music: Ediig Leonardo
