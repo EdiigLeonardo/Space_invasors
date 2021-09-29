@@ -186,7 +186,5 @@ def main():
                     red_health, yellow_health)
     main()
 
-"1h00m56s"
-
 if __name__ == "__main__":
     main()
